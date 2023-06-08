@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "276124433827",
+    "project_id": "fir-project-4cfe7",
+    "storage_bucket": "fir-project-4cfe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276124433827:android:8e3fe9a3c16dc6e03dee16",
+        "android_client_info": {
+          "package_name": "club.thedowntown.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276124433827-23h4cssjd2nvq1hjhkj0k5cnm2pvgb4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrSAY7eF5Vpo2-EyIyD3252pEhhTbZIUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276124433827-23h4cssjd2nvq1hjhkj0k5cnm2pvgb4q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276124433827-8lcvgpsj0fvflo81b0vsu9qpqeqmb8qg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebaseproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276124433827:android:acf2deb7fb26ed8e3dee16",
+        "android_client_info": {
+          "package_name": "com.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276124433827-23h4cssjd2nvq1hjhkj0k5cnm2pvgb4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrSAY7eF5Vpo2-EyIyD3252pEhhTbZIUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276124433827-23h4cssjd2nvq1hjhkj0k5cnm2pvgb4q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276124433827-8lcvgpsj0fvflo81b0vsu9qpqeqmb8qg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebaseproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
